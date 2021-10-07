@@ -12,10 +12,14 @@ go get github.com/awgh/embiggen
 
 # usage
 Usage of embiggen:
+
   -i string
-    	Input Directory or File (\*.smali) (default "./")
+  
+   Input Directory or File (\*.smali) (default "./")
+      
   -o string
-    	Output Directory (default "java/")
+  
+   Output Directory (default "java/")
       
 # example usage
 
