@@ -1,5 +1,5 @@
 # embiggen
-Generates BOGUS Java files from a directory of Smali files, just so that there enough breakpoint-able lines.
+Generates BOGUS Java files from a directory of Smali files.
 
 This lets you remotely set breakpoints in an APK you do not have source code for using Android Studio.
 
